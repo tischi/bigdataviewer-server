@@ -9,6 +9,7 @@
 /.settings
 /.factorypath
 /.idea
+*.iml
 
 # Eclipse #
 /.classpath
