@@ -1,6 +1,15 @@
 .DS_Store
 *.orig
 
+# IntelliJ #
+/.idea
+/.DS_Store
+/.classpath
+/.project
+/.settings
+/.factorypath
+/.idea
+
 # Eclipse #
 /.classpath
 /.project

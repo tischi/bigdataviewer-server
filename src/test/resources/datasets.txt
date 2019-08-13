@@ -1,0 +1,1 @@
+mri-stack	/Users/tischer/Documents/bigdataviewer-server/src/test/resources/mri-stack.xml
